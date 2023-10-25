@@ -1,0 +1,27 @@
+body{
+    background: #212534;
+    color: ghostwhite;
+}
+
+/*
+.customSize{
+    max-width: 400px;
+    height: auto;
+}
+*/
+
+a{
+    text-decoration: none;
+    color:chartreuse;
+margin-left: 1rem;
+}
+
+a:hover{
+    transition: 0.5s;
+    color:rgb(255, 0, 221);
+}
+
+.fa-instagram{
+    font-size: 1.2rem;
+   
+}
